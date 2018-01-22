@@ -1,0 +1,28 @@
+                U  ___ u   ____     ____    
+ __        __    \/"_ \/U |  _"\ u |  _"\   
+ \"\      /"/    | | | | \| |_) |//| | | |  
+ /\ \ /\ / /\.-,_| |_| |  |  _ <  U| |_| |\ 
+U  \ V  V /  U\_)-\___/   |_| \_\  |____/ u 
+.-,_\ /\ /_,-.     \\     //   \\_  |||_    
+ \_)-'  '-(_/     (__)   (__)  (__)(__)_)   
+  _____    ____    U _____ u  ___           
+ |" ___|U |  _"\ u \| ___"|/ / " \          
+U| |_  u \| |_) |/  |  _|"  | |"| |         
+\|  _|/   |  _ <    | |___ /| |_| |\        
+ |_|      |_| \_\   |_____|U \__\_\u        
+ )(\\,-   //   \\_  <<   >>   \\//          
+(__)(_/  (__)  (__)(__) (__) (_(__)      
+
+$ preceeds command to enter into terminal
+>> preceeds program output
+
+open wf.py with a text editor to view code
+python3 required (check version by running python in terminal by entering $python, $exit() to exit)
+
+to run navigate to word-freq directory in terminal
+($cd /path-to-directory/word-freq)
+and enter
+$python3 we.py
+
+>>enter file name: in the same directory as we.py (ex. $read-me.txt)
+>>enter a new file name: created as input + .csv in same directory (ex. $read-me-sorted)
